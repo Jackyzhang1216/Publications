@@ -1,9 +1,3 @@
 # Publications
-# Publications
-# Publications
-# Publications
-# Publications
-# Publications
-# Publications
-# Publications
-# Publications
+
+This folder contains all of my publications
